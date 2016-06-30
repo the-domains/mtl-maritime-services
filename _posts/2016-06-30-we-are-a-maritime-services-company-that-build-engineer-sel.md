@@ -7,17 +7,19 @@ keywords: []
 description: >-
   We are a maritime services company that build, engineer, sell and charter
   boats and can assist in all types of shipping and business arrangements.
-datePublished: '2016-06-30T19:27:49.116Z'
-dateModified: '2016-06-30T19:27:14.738Z'
+datePublished: '2016-06-30T19:44:24.011Z'
+dateModified: '2016-06-30T19:44:21.411Z'
 title: ''
 author: []
-authors: []
-publisher: null
 sourcePath: >-
   _posts/2016-06-30-we-are-a-maritime-services-company-that-build-engineer-sel.md
+authors: []
+publisher: null
 starred: true
 url: we-are-a-maritime-services-company-that-build-engineer-sel/index.html
 _type: Article
 
 ---
 We are a maritime services company that build, engineer, sell and charter boats and can assist in all types of shipping and business arrangements.
+
+We can build in our yard in Castellón, Valencia, Spain or in Fetiye, Turkey and scrap anything up to small ship size in Vinaros also in Spain and can charter anywhere in the Mediterranean or Caribbean through our network of owners sure to get you the best price.
