@@ -1,0 +1,28 @@
+name: MTL Maritime Services
+favicon: null
+layout_spectrum: 0.4457761156372726
+typography_spectrum: 0.3875909149646759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3433201243169606
+  lightness: 0.9407672011293471
+  saturation: 0.09426296502351761
+  rhythmicContrast: 0.6501605720259249
+purpose: []
